@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Music Player</string>
+    <string name="songs">SONGS</string>
+    <string name="no_songs_found">No Songs Found</string>
+    <string name="name_of_the_song">Name of the Song</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="email">Email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+</resources>
